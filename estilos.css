@@ -1,0 +1,42 @@
+* {margin: 0px; border: 0px}
+
+header {display: block}
+
+aside {float: left; background: linear-gradient(to right, #1C6EA4 0%, #2388CB
+50%, lightblue 100%); columns: 300px; height: 1528px; text-align: center; font-weight: 
+bold;font-size: 18px;}
+
+nav {text-align: center}
+
+section {margin-left: 320px;}
+
+footer {margin-top: 20px; text-align: center;background-color: grey;}
+
+h1 {text-align: center;}
+
+h2 {padding: 15px; text-align: center; color: darkslategray; font-family: 'Lucida Sans', 
+    'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h3 {padding: 15px; color: #1C6EA4}
+
+a {padding: 15px}
+
+p{margin: 15px; text-align: center;}
+
+img {margin: 15px; border-radius: 350px}
+
+#top {text-align: left; margin-left: 305px;}
+
+#nombre {text-align: center;}
+
+#resumen {text-align: justify; margin-left: 320px;font-size: 20px;}
+
+#texto{display: inline-block; vertical-align: middle; text-align:left}
+
+#icono{height: 30px; width: 30px; padding: 0px; margin: 0px}
+
+#boton{background:grey; border-radius: 100px; font-weight: bold}
+
+#formulario{align-items: center}
+
+#msg{height: 200px;}
